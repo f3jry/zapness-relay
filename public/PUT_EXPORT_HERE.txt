@@ -1,0 +1,1 @@
+Put the exported Godot web build (index.html, *.wasm, *.pck, ...) here.
